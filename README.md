@@ -28,7 +28,7 @@ from a list of potential responses.
 4. The api must allow for retrieving history (messages) for a chat.
 - If you refresh the page, your chats will still be there. 
 5. The api must allow for multiple clients sending requests.
-- The API accounts for different chat IDs. If your launches the application, they will have their own unique chats and chat history.
+- The API accounts for different chat IDs. If your friend launches the application, they will have their own unique chats and chat history.
 6. A database is not required - if you would like to keep track of entities in memory that is
 okay, though a database may be just as easy.
 - This app uses a Mongodb database.
