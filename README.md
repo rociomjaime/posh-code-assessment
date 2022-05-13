@@ -3,7 +3,7 @@ Hello, this is my repository for the posh code challenge assessment!
 
 In order to launch the application please run:
 
-`npm install`
+`npm install` \
 `npm run dev`
 
 This ensures that the API and UI are both running concurrently.
